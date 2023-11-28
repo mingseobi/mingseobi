@@ -1,5 +1,7 @@
 **mingseobi/mingseobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![header](https://capsule-render.vercel.app/api?type=wave)
+
 ### Hi there 👋 I'm mobile app developer using iOS.🚀
 I develop UIKit with Xcode.
 
