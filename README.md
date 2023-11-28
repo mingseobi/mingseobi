@@ -10,7 +10,7 @@
    -->
 
 <!-- 메시지 형식의 자기소개 --> 
-![https://github.com/soyeon207/soyeon207/blob/main/chat.svg](https://github.com/soyeon207/soyeon207/blob/main/chat.svg)
+![https://github.com/soyeon207/soyeon207/blob/main/chat.svg](https://github.com/mingseobi/mingseobi/blob/main/chat.svg)
 
 <!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack 
